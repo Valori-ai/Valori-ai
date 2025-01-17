@@ -30,7 +30,7 @@ export function AppSidebar() {
       {/* Header */}
       <div className="flex items-center justify-between p-4 border-b border-gray-700">
         {!isCollapsed && (
-          <h1 className="text-xl font-bold text-primary">Varohi</h1>
+          <h1 className="text-xl font-bold text-primary">Valori</h1>
         )}
         <button
           className="text-gray-400 hover:text-white"
